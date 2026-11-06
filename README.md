@@ -1,1 +1,1 @@
-** Sistema estadístico de Arquerossss **
+** Sistema estadístico de Arqueros **
